@@ -17,10 +17,8 @@
     "url": "https://github.com/Martz04/cf-amz-scrapper/issues"
   },
   "homepage": "https://github.com/Martz04/cf-amz-scrapper#readme",
-  "devDependencies": {
-    "@google-cloud/functions-framework": "^3.1.3"
-  },
   "dependencies": {
+    "@google-cloud/functions-framework": "^3.1.3",
     "axios": "^1.2.2",
     "chai": "^4.3.7",
     "cheerio": "^1.0.0-rc.12",

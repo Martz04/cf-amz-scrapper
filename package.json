@@ -1,0 +1,22 @@
+{
+  "name": "cf-amz-scrapper",
+  "version": "1.0.0",
+  "description": "POC for Amazon Scrap prizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martz04/cf-amz-scrapper.git"
+  },
+  "author": "Martz04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martz04/cf-amz-scrapper/issues"
+  },
+  "homepage": "https://github.com/Martz04/cf-amz-scrapper#readme",
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^3.1.3"
+  }
+}
